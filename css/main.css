@@ -66,6 +66,10 @@ form button {
   text-transform: uppercase;
 }
 
+.jump{
+  color: black;
+}
+
 footer {
   padding: 2rem 0;
 }
